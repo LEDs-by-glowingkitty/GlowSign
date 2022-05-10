@@ -11,4 +11,4 @@ A battery powered LED sign for your laptop, or where ever else you want to use i
 ## Links
 
 - [Main PCB files](https://github.com/glowingkitty/GlowKittySign/tree/main/Main%20PCB)
-- [Aluminum Cover PCB files](https://github.com/glowingkitty/GlowKittySign/tree/main/AluminumCover%20PCB)
+- [Aluminum Cover PCB - Cat Edition files](https://github.com/glowingkitty/GlowKittySign/tree/main/AluminumCover%20PCB%20cat%20edition)
