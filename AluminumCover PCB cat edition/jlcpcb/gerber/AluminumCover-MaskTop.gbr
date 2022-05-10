@@ -1,0 +1,41 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.4-0)*%
+%TF.CreationDate,2022-05-07T16:42:37+02:00*%
+%TF.ProjectId,AluminumCover,416c756d-696e-4756-9d43-6f7665722e6b,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Top*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (6.0.4-0)) date 2022-05-07 16:42:37*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,3.500000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,P8*%
+X91671646Y-115748554D03*
+%TD*%
+%TO.C,P7*%
+X202171646Y-71468554D03*
+%TD*%
+%TO.C,P6*%
+X91671646Y-78358554D03*
+%TD*%
+%TO.C,P5*%
+X202171646Y-122338554D03*
+%TD*%
+%TO.C,P4*%
+X96881646Y-122338554D03*
+%TD*%
+%TO.C,P3*%
+X206887046Y-115748554D03*
+%TD*%
+%TO.C,P2*%
+X206887046Y-78358554D03*
+%TD*%
+%TO.C,P1*%
+X96881646Y-71468554D03*
+%TD*%
+M02*

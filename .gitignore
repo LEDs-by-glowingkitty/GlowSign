@@ -27,3 +27,7 @@ fp-info-cache
 .DS_Store
 *-backups
 *-bak
+
+*_autosave
+*.pwmx
+*.step

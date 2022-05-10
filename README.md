@@ -1,4 +1,4 @@
-# GlowKittySign
+![GlowSign](readme/header.jpg)
 
 ## Warning:
 
@@ -6,7 +6,7 @@ This project is currently under active development and has not been fully tested
 
 ## What is this project?
 
-A glowingkitty sign, with a cat illuminated by LEDs (of course)!
+A battery powered LED sign for your laptop, or where ever else you want to use it!
 
 ## Links
 
