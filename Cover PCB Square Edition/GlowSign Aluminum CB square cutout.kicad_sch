@@ -202,7 +202,7 @@
   (symbol (lib_id "MyParts:Thermal_Pad") (at 38.1 68.58 0) (unit 1)
     (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 3ab2c8aa-3b10-430e-b61d-ea401f58f6e6)
-    (property "Reference" "P?" (id 0) (at 52.07 68.5799 0)
+    (property "Reference" "P4" (id 0) (at 52.07 68.5799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Thermal_Pad" (id 1) (at 52.07 71.1199 0)
@@ -311,7 +311,7 @@
   (symbol (lib_id "MyParts:Thermal_Pad") (at 38.1 50.8 0) (unit 1)
     (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 6fa05cd5-065e-465f-b08d-7ecbf9d2acc3)
-    (property "Reference" "P?" (id 0) (at 52.07 50.7999 0)
+    (property "Reference" "P2" (id 0) (at 52.07 50.7999 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Thermal_Pad" (id 1) (at 52.07 53.3399 0)
@@ -350,7 +350,7 @@
   (symbol (lib_id "MyParts:Thermal_Pad") (at 38.1 86.36 0) (unit 1)
     (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 897f42df-a867-4b46-b04e-9979b57053bd)
-    (property "Reference" "P?" (id 0) (at 52.07 86.3599 0)
+    (property "Reference" "P6" (id 0) (at 52.07 86.3599 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Thermal_Pad" (id 1) (at 52.07 88.8999 0)
@@ -404,7 +404,7 @@
   (symbol (lib_id "MyParts:Thermal_Pad") (at 38.1 77.47 0) (unit 1)
     (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid d707b9a9-5a70-4e84-9567-d6bec7a50599)
-    (property "Reference" "P?" (id 0) (at 52.07 77.4699 0)
+    (property "Reference" "P5" (id 0) (at 52.07 77.4699 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Thermal_Pad" (id 1) (at 52.07 80.0099 0)
@@ -422,7 +422,7 @@
   (symbol (lib_id "MyParts:Thermal_Pad") (at 38.1 41.91 0) (unit 1)
     (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid e771895d-f993-4350-b292-891afbb550d8)
-    (property "Reference" "P?" (id 0) (at 52.07 41.9099 0)
+    (property "Reference" "P1" (id 0) (at 52.07 41.9099 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Thermal_Pad" (id 1) (at 52.07 44.4499 0)
@@ -461,7 +461,7 @@
   (symbol (lib_id "MyParts:Thermal_Pad") (at 38.1 59.69 0) (unit 1)
     (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid f0908454-8649-4133-a848-f2c0631cb9af)
-    (property "Reference" "P?" (id 0) (at 52.07 59.6899 0)
+    (property "Reference" "P3" (id 0) (at 52.07 59.6899 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Thermal_Pad" (id 1) (at 52.07 62.2299 0)
@@ -520,23 +520,23 @@
     (path "/f6963ddf-8857-4044-ba3c-1f5cd5aa987e"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
-    (path "/3ab2c8aa-3b10-430e-b61d-ea401f58f6e6"
-      (reference "P?") (unit 1) (value "Thermal_Pad") (footprint "footprint:Thermal pad")
+    (path "/e771895d-f993-4350-b292-891afbb550d8"
+      (reference "P1") (unit 1) (value "Thermal_Pad") (footprint "footprint:Thermal pad")
     )
     (path "/6fa05cd5-065e-465f-b08d-7ecbf9d2acc3"
-      (reference "P?") (unit 1) (value "Thermal_Pad") (footprint "footprint:Thermal pad")
-    )
-    (path "/897f42df-a867-4b46-b04e-9979b57053bd"
-      (reference "P?") (unit 1) (value "Thermal_Pad") (footprint "footprint:Thermal pad")
-    )
-    (path "/d707b9a9-5a70-4e84-9567-d6bec7a50599"
-      (reference "P?") (unit 1) (value "Thermal_Pad") (footprint "footprint:Thermal pad")
-    )
-    (path "/e771895d-f993-4350-b292-891afbb550d8"
-      (reference "P?") (unit 1) (value "Thermal_Pad") (footprint "footprint:Thermal pad")
+      (reference "P2") (unit 1) (value "Thermal_Pad") (footprint "footprint:Thermal pad")
     )
     (path "/f0908454-8649-4133-a848-f2c0631cb9af"
-      (reference "P?") (unit 1) (value "Thermal_Pad") (footprint "footprint:Thermal pad")
+      (reference "P3") (unit 1) (value "Thermal_Pad") (footprint "footprint:Thermal pad")
+    )
+    (path "/3ab2c8aa-3b10-430e-b61d-ea401f58f6e6"
+      (reference "P4") (unit 1) (value "Thermal_Pad") (footprint "footprint:Thermal pad")
+    )
+    (path "/d707b9a9-5a70-4e84-9567-d6bec7a50599"
+      (reference "P5") (unit 1) (value "Thermal_Pad") (footprint "footprint:Thermal pad")
+    )
+    (path "/897f42df-a867-4b46-b04e-9979b57053bd"
+      (reference "P6") (unit 1) (value "Thermal_Pad") (footprint "footprint:Thermal pad")
     )
     (path "/65bd98ca-4fd6-454c-92d4-f797652e0f9e"
       (reference "U1") (unit 1) (value "SMTSO3030CTJ") (footprint "footprint:SMTSO3030CTJ No hole")
