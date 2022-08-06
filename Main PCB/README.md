@@ -12,4 +12,3 @@ The main PCB for GlowSign. With all the LEDs, the integrated ESP32, a microphone
 
 - [Schematic](https://github.com/glowingkitty/GlowSign/blob/main/Main%20PCB/GlowSignMainPCB.pdf)
 - [Interactive BOM](https://htmlpreview.github.io/?https://github.com/glowingkitty/GlowSign/blob/main/Main%20PCB/bom/ibom.html)
-- [PCB stencils](https://github.com/glowingkitty/GlowSign/blob/main/Main%20PCB/PCB%20stencils)
