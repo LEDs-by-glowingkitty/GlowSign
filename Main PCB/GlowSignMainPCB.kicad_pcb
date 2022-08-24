@@ -53,7 +53,7 @@
     )
     (pad_to_mask_clearance 0)
     (pcbplotparams
-      (layerselection 0x0041008_7ffffffe)
+      (layerselection 0x0201008_7ffffffe)
       (disableapertmacros false)
       (usegerberextensions false)
       (usegerberattributes true)
@@ -12109,6 +12109,7 @@
   (gr_arc locked (start 234.731355 142.122955) (mid 233.670715 141.683609) (end 233.231355 140.622955) (layer "User.2") (width 0.1) (tstamp f802d7fc-fb30-4a09-9ed8-04f6806ab31e))
   (gr_line locked (start 177.981355 77.622955) (end 177.981355 115.382493) (layer "User.2") (width 0.1) (tstamp fc4f3bc7-7a7f-4075-879f-e91047d5fa93))
   (gr_rect locked (start 85.9288 68.3768) (end 120.9288 133.3768) (layer "User.3") (width 0.2) (fill none) (tstamp abd9a564-5eb6-4444-83ed-fabd2f7682ef))
+  (gr_rect (start 60.1472 54.1528) (end 243.0272 148.336) (layer "User.4") (width 0.1) (fill none) (tstamp 82db2287-2939-4dad-9996-43187e815c0c))
   (gr_text "B-" (at 188.722 132.1308) (layer "F.SilkS") (tstamp 167f30d6-a488-4f5b-8f4f-e8d0676944e3)
     (effects (font (size 1 1) (thickness 0.15)))
   )
