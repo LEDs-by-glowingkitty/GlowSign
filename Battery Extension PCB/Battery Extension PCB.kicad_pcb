@@ -84,7 +84,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "jlcpcb/gerber/")
+      (outputdirectory "jlcpcb/gerber tinted vias/")
     )
   )
 
@@ -1436,6 +1436,9 @@
   (gr_arc locked (start 75.851586 64.06627) (mid 76.20514 64.212716) (end 76.351586 64.56627) (layer "Edge.Cuts") (width 0.1) (tstamp cf8b748e-92d0-4b7c-a383-2a05b6cb7bbd))
   (gr_line locked (start 142.299615 80.773967) (end 116.125445 80.773967) (layer "Edge.Cuts") (width 0.1) (tstamp d12c6268-470f-42df-8df4-30db91c896ad))
   (gr_line locked (start 66.29454 73.822228) (end 66.29454 68.8768) (layer "Edge.Cuts") (width 0.1) (tstamp d2fc25b6-cd8f-4c87-b657-828759b8367d))
+  (gr_text "PCB files:\nhttps://bit.ly/\nxxxx" (at 139.1412 55.0164) (layer "B.SilkS") (tstamp 03cb480e-8c24-48d7-8b7f-5a0b3bf98f73)
+    (effects (font (size 0.8 0.8) (thickness 0.15)) (justify left mirror))
+  )
   (gr_text "5V" (at 142.1892 79.3496) (layer "B.SilkS") (tstamp 0599a103-490c-4143-b48d-b8cade62eaaf)
     (effects (font (size 1 1) (thickness 0.15)) (justify left mirror))
   )
@@ -4443,6 +4446,11 @@
         (xy 105.693776 68.8853)
         (xy 122.959721 68.8853)
       )
+    )
+  )
+  (group "" (id 24c1ed49-d0fc-4375-9671-341cd4e5cea3)
+    (members
+      03cb480e-8c24-48d7-8b7f-5a0b3bf98f73
     )
   )
   (group "" locked (id 56acfa63-0f60-487c-9b9d-6d2d49afddee)
