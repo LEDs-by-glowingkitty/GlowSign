@@ -890,7 +890,7 @@
     (property "Sheetfile" "GlowSignMainPCB.kicad_sch")
     (property "Sheetname" "")
     (path "/d63301e7-294e-4374-a25a-c43342584249")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "P4" (at 0.1524 -3.1496 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 25fcff68-b7f4-4b2e-b7b4-3cebecca4070)
@@ -4366,7 +4366,7 @@
     (property "Sheetfile" "GlowSignMainPCB.kicad_sch")
     (property "Sheetname" "")
     (path "/0ea99dc5-bd2e-415e-b1f1-db1d08358a1c")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "P2" (at 0.1524 -3.1496 90 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 2d4a1f17-fc1c-40e6-bf89-691f480f736a)
@@ -4619,7 +4619,7 @@
     (property "Sheetfile" "GlowSignMainPCB.kicad_sch")
     (property "Sheetname" "")
     (path "/b50ddd45-93c0-41bc-9ee1-93afc6941c62")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "P6" (at 0.1524 -3.1496 90 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 203994c1-a950-4fd0-a311-960cbb4c2264)
@@ -5122,7 +5122,7 @@
     (property "Sheetfile" "GlowSignMainPCB.kicad_sch")
     (property "Sheetname" "")
     (path "/cf7df0ff-e0c0-4d4d-a033-878953ed8d64")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "TP1" (at 0 -1.648) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0ff67110-30a7-4127-b504-75a4bbf6f6bd)
@@ -5235,7 +5235,7 @@
     (property "Sheetfile" "GlowSignMainPCB.kicad_sch")
     (property "Sheetname" "")
     (path "/0ef28e3a-0c29-452f-93cf-6307856ee1ae")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "TP4" (at 0 -1.648) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f4a0af03-7340-4af2-8878-1024ec19855e)
@@ -5557,7 +5557,7 @@
     (property "Sheetfile" "GlowSignMainPCB.kicad_sch")
     (property "Sheetname" "")
     (path "/ac2e0f23-acff-40d8-b951-bb09c3bf3f66")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "JP2" (at 0 -1.8 90) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 9768860d-e6a0-4970-910a-1eed53d1097c)
@@ -6887,7 +6887,7 @@
     (property "Sheetfile" "GlowSignMainPCB.kicad_sch")
     (property "Sheetname" "")
     (path "/fb4465eb-6a44-4b3c-8bab-dd7ec632271f")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "TP7" (at 0 -1.648) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f59aaf10-be26-4d54-b504-2a506e4c395e)
@@ -6914,7 +6914,7 @@
     (property "Sheetfile" "GlowSignMainPCB.kicad_sch")
     (property "Sheetname" "")
     (path "/659394e3-31f2-4ec7-b995-00a35a5768ff")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "TP8" (at 0 -1.648) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 46c0c1d0-7fb6-4878-b828-bdd8a2161b68)
@@ -6993,7 +6993,7 @@
     (property "Sheetfile" "GlowSignMainPCB.kicad_sch")
     (property "Sheetname" "")
     (path "/85781e12-dbaa-4368-8ceb-30c8cf4a3936")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "TP2" (at 0 -1.648) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp dc1c8f67-23f0-40ba-9f26-c97c2d22db78)
@@ -9333,7 +9333,7 @@
     (property "Sheetfile" "GlowSignMainPCB.kicad_sch")
     (property "Sheetname" "")
     (path "/91a6dd27-1ed9-40f8-8138-a8afe5a0aaf6")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "P7" (at 0.1524 -3.1496 90 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 881ce340-8682-44ff-9a65-d730d70cfa58)
@@ -9531,7 +9531,7 @@
     (property "Sheetfile" "GlowSignMainPCB.kicad_sch")
     (property "Sheetname" "")
     (path "/227e467d-c669-4820-84ff-c50db9e98f6f")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "TP6" (at 0 -1.648) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c2cdbe05-f2f8-4d33-9e5b-aa3b70594100)
@@ -9558,7 +9558,7 @@
     (property "Sheetfile" "GlowSignMainPCB.kicad_sch")
     (property "Sheetname" "")
     (path "/8507666f-02eb-4ed8-a8b4-fa748cc7d221")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "JP3" (at 3.302 0.0508 90) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 050ee2fa-05c8-48b8-ab2a-13bd5e6772da)
@@ -9792,7 +9792,7 @@
     (property "Sheetfile" "GlowSignMainPCB.kicad_sch")
     (property "Sheetname" "")
     (path "/6cd485ec-ec72-48cd-b64f-5dfbf3c057b9")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "P3" (at 0.1524 -3.1496 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 40dd59e1-6e2b-4ed8-bfb6-e96e9c511f95)
@@ -10003,7 +10003,7 @@
     (property "Sheetfile" "GlowSignMainPCB.kicad_sch")
     (property "Sheetname" "")
     (path "/19d93ff9-0664-4954-b4a9-d08de44ad187")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "P1" (at 0.1524 -3.1496 90 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 2d4b151c-4ae2-4002-8aa8-39eb9593ee9c)
@@ -10123,7 +10123,7 @@
     (property "Sheetfile" "GlowSignMainPCB.kicad_sch")
     (property "Sheetname" "")
     (path "/19ed40bf-48f5-4043-a7ec-3daadb55a7a2")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "JP1" (at 0 -1.8 90) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 89a6d9d8-ef80-4fe8-8729-3ae5338a14f2)
@@ -10467,7 +10467,7 @@
     (property "Sheetfile" "GlowSignMainPCB.kicad_sch")
     (property "Sheetname" "")
     (path "/f00fb592-7baa-4714-a380-ac8bb2ce5020")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "TP5" (at 0 -1.648) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 85b8bb68-9df9-4ff9-b015-29bdb6060b24)
@@ -10492,7 +10492,7 @@
     (property "Sheetfile" "GlowSignMainPCB.kicad_sch")
     (property "Sheetname" "")
     (path "/2d58771f-fb76-4574-9e95-54b314e8acdf")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "P5" (at 0.1524 -3.1496 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 062e73d5-21fe-4492-b08d-700c2eaa27f6)
@@ -11227,7 +11227,7 @@
   (gr_text "B-" (at 188.722 132.1308) (layer "F.SilkS") (tstamp 167f30d6-a488-4f5b-8f4f-e8d0676944e3)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (gr_text "Main PCB v1.0 beta 3" (at 123.0376 135.382) (layer "F.SilkS") (tstamp 1990db4a-0967-49ff-8f3b-ef7c1aa37b07)
+  (gr_text "Main PCB v1.0 RC1" (at 123.0376 135.382) (layer "F.SilkS") (tstamp 1990db4a-0967-49ff-8f3b-ef7c1aa37b07)
     (effects (font (size 0.8 0.8) (thickness 0.15)) (justify left))
   )
   (gr_text "PCB files:\nhttps://bit.ly/\n3KXk8NI" (at 74.0156 102.9716) (layer "F.SilkS") (tstamp 1f513b91-0927-43ad-9956-b01910e14f4b)
